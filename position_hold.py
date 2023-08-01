@@ -7,7 +7,7 @@ This node publishes and subsribes the following topics:
   /roll_error /pid_tuning_roll
 
 
-Rather than using different variables, use list. eg : self.setpoint = [1,2,3], where index corresponds to x,y,z ...rather than defining self.x_setpoint = 1, self.y_setpoint = 2
+Rather than using different variables, use list. eg : self.setpoint = [1,2,3], where index corresponds to x,y,z... rather than defining self.x_setpoint = 1, self.y_setpoint = 2
 CODE MODULARITY AND TECHNIQUES MENTIONED LIKE THIS WILL HELP YOU GAINING MORE MARKS WHILE CODE EVALUATION.
 '''
 
