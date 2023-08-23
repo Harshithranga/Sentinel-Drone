@@ -11,7 +11,7 @@ The Sentinel Drone project is an autonomous drone system designed to detect and 
 
 - `position_hold.py`: The position_hold module ensures autonomous hovering of the drone. It employs PID controllers to maintain the drone's position over the center of the yellow block. The drone's simulation takes place in Gazebo using ROS.
 
-- `requirements.txt`: The requirements file lists all the necessary libraries and dependencies required to accomplish the project.
+- `requirements.txt`: The requirements file lists all the necessary libraries and dependencies required to run the `task2b.py` script.
 
 - `result-2022-SD-0-20220922.json`: This JSON file is generated after setting up the required repositories and configuring the computer for the project.
 
